@@ -79,7 +79,6 @@ const ContextLoader = {
 ### Multi-Platform Work Item Management (Loaded on Work Item Tasks)
 @claude-integration/global/MULTI_PLATFORM_WORK_ITEM_MANAGEMENT.md
 @claude-integration/global/JIRA_INTEGRATION.md
-@claude-integration/global/ATLASSIAN_MCP_INTEGRATION.md
 @.claude/modules/workflows/ADO_COMPREHENSIVE.md
 
 ### Infrastructure Instructions (Loaded on DevOps Tasks)

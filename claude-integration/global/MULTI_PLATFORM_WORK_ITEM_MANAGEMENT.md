@@ -457,7 +457,6 @@ curl -X GET "https://agentic-sdlc.atlassian.net/rest/api/3/issue/ASP-1" \
 
 - [ADO_COMPREHENSIVE.md](ADO_COMPREHENSIVE.md) - Complete Azure DevOps integration guide
 - [JIRA_INTEGRATION.md](JIRA_INTEGRATION.md) - Jira-specific implementation details
-- [ATLASSIAN_MCP_INTEGRATION.md](ATLASSIAN_MCP_INTEGRATION.md) - Official Atlassian MCP server setup
 - [QUALITY_STANDARDS.md](../../../development/workflows/QUALITY_STANDARDS.md) - Workflow compliance requirements
 
 ---
