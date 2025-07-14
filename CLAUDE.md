@@ -57,6 +57,8 @@ const ContextLoader = {
 @claude-integration/global/CORE_PRINCIPLES.md
 @claude-integration/global/AGENT_INSTRUCTIONS.md
 @claude-integration/global/TRUST_VIOLATION_PREVENTION.md
+@claude-integration/global/CONTINUOUS_LEARNING.md
+@claude-integration/global/LESSONS_LEARNED.md
 @claude-integration/global/MANDATORY_VERIFICATION_PROTOCOL.md
 @claude-integration/global/CRITICAL_THINKING_FRAMEWORK.md
 @claude-integration/global/MERMAID_VISUALIZATION_STANDARDS.md
@@ -73,6 +75,11 @@ const ContextLoader = {
 @claude-integration/global/DEPENDENCY_SECURITY.md
 @claude-integration/global/CI_PIPELINE_SECURITY.md
 @operations/devops/DEVSECOPS_AI_FRAMEWORK.md
+
+### Multi-Platform Work Item Management (Loaded on Work Item Tasks)
+@claude-integration/global/MULTI_PLATFORM_WORK_ITEM_MANAGEMENT.md
+@claude-integration/global/JIRA_INTEGRATION.md
+@.claude/modules/workflows/ADO_COMPREHENSIVE.md
 
 ### Infrastructure Instructions (Loaded on DevOps Tasks)
 @operations/devops/DOCKER_CONTAINERIZATION.md
